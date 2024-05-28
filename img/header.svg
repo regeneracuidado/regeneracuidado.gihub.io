@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="950"
+   viewBox="0 0 396.87499 251.35417"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       xlink:href="#linearGradient23"
+       id="linearGradient26"
+       gradientUnits="userSpaceOnUse"
+       x1="281.38907"
+       y1="178.93137"
+       x2="246.96414"
+       y2="120.21905"
+       gradientTransform="matrix(1,0,0,1.1160748,-71.172917,-20.108333)" />
+    <linearGradient
+       id="linearGradient23">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop23" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient23"
+       id="linearGradient25"
+       x1="-67.604012"
+       y1="115.30021"
+       x2="5.9257412"
+       y2="64.200798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9459372,-0.36199868,0.32434984,1.0557367,-71.172917,-20.108333)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(71.17292,20.108334)">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke-width:0.300753"
+       id="rect2"
+       width="396.875"
+       height="251.00056"
+       x="-71.17292"
+       y="-20.108334" />
+    <path
+       style="display:inline;fill:url(#linearGradient26);fill-opacity:1;stroke-width:0.279517"
+       d="M 325.70208,106.01655 V 9.4211446 H -71.172917 V 230.89224 H 11.046571 C 158.84523,228.57021 167.07112,121.30203 325.70208,106.01655 Z"
+       id="path25" />
+    <path
+       id="path24"
+       style="display:inline;fill:url(#linearGradient25);fill-opacity:1;stroke-width:0.279517"
+       d="M 158.41296,9.4211504 C 84.942508,84.167442 -5.0992741,106.01655 -71.172917,85.906665 V 9.4211449 Z" />
+  </g>
+</svg>
